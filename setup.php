@@ -1,7 +1,7 @@
 <?php
  $host = "jtisaj-mysqldbserver.mysql.database.azure.com";
  $user = "mysqldbuser@jtisaj-mysqldbserver";
- $pwd = "QdTh.2355";
+ $pwd = "QdTh.235";
  $db = "ruapdb";
  // $host = "127.0.0.1:52932";
  // $user = "azure";
